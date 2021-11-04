@@ -1,0 +1,9 @@
+<%- include("partials/header") -%> 
+
+<h1> <%= requestedTitle %>  </h1>
+<p> <%= content %>  </p>
+<form action="/post" method="post">
+    <button class="btn btn-md publish-btn" type="submit">Back To Home</button>
+</form>
+
+<%- include("partials/footer") -%> 

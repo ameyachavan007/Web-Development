@@ -1,0 +1,15 @@
+{
+  "name": "into-to-node",
+  "version": "1.0.0",
+  "description": "This is a intro to node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ameya Chavan",
+  "license": "ISC",
+  "dependencies": {
+    "marvel-comics-characters": "^1.1.1",
+    "superheroes": "^3.0.0"
+  }
+}

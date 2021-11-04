@@ -1,0 +1,159 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+}
+
+.man{
+    width:150px ;
+    height: 150px;
+}
+
+.mountain{
+    position: relative;
+    top: 4px;
+   
+}
+
+a{
+    color: #45b29a;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 20px;
+
+}
+
+a:hover{
+    color: #7bd1be
+}
+
+
+hr{
+    
+    border: #dcd6f7;
+    border-style: dotted none none;
+  margin-top: 100px;
+    width: 5%;
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+    color: #45b29a;
+    font-size: 6em
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #45b29a;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #45b29a;
+    padding: 14px;
+    font-size: 1.5em;
+    width: auto;
+    margin-top: 0px;
+}
+p{
+    font-size: 1.5em;
+   margin : auto;
+    line-height: 2;
+    
+}
+
+.btn {
+	box-shadow: 0px 1px 0px 0px #3dc21b;
+	background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+	border-radius:8px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+    font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+    margin: 1.5em 0 0;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+	background-color:#5cbf2a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+.help{
+    margin-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #1e836c;
+    
+}
+
+.intro{
+   color: #45b29a;
+   font-family: 'Montserrat', sans-serif;
+     margin: 20px auto 10px;
+     width: 60%;
+}
+
+
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+  
+}
+
+.h3{
+    margin: 20px 0px 10px;
+}
+
+.para1{
+    color: black;
+    font-family: 'Comic Neue', cursive;
+    margin: auto auto 10px;
+    line-height: 2;
+    width: 60%;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-container{
+    background-color: #d4e7e4 ;
+    position: relative;
+    padding-top: 200px ;
+}
+
+.middle-container{
+   margin-top: 40px;
+}
+
+.footer{
+    background-color: #c5ded7;
+    margin-top: 40px;
+    padding: 42px 0;
+    
+}
+
+.para{
+    font-size: 20px;
+    color: #45b29a;
+    margin: 0 0 100px;
+
+}
+
+
